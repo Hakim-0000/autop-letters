@@ -3,7 +3,7 @@ Autop-letters merupakan sistem automasi yang dibuat untuk mempermudah pembuatan 
 Sayangnya untuk saat ini program ini hanya dapat digunakan di **Windows system** karena salah satu library yang digunakan adalah [docx](https://python-docx.readthedocs.io/en/latest/), yang mana memerlukan aplikasi Microsoft Word Document.
 
 # Demo
-![Demo](assets\carbon.png)
+![Demo](.\assets\carbon.png)
 [Demo video](https://drive.google.com/file/d/1euCrkya5hJ2Wn0yrHPwOBdfZzCoSfnYC/view?t=1) *sorry for bad quality video :(* 
 
 # Installation
