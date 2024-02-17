@@ -43,7 +43,7 @@ python autop-letters.py -c company_list.txt -j job_title_list.txt -l Semarang
 ```
 Done, tinggal kirim-kirim surat lamarannya deh :)
 
-# ⚠️⚠️⚠️**Peringatan**⚠️⚠️⚠️
+# ⚠️⚠️⚠️**Warning**⚠️⚠️⚠️
 **Tidak ada jaminan** bisa dapat pekerjaan kalo pakai ini, karena program ini hanya untuk mempermudah saja :)
 
 ### Edit source code?
